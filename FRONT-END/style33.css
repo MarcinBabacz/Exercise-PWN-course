@@ -1,0 +1,166 @@
+body{
+font: Trebuchet MS small-caps bold 12px/1.6 Arial, sans-serif;
+}
+
+h1 {
+	font-size:2em;
+	
+	
+	
+}
+
+a{
+	text-decoration:none;
+	color:black;
+	border-bottom:1px dotted black;
+}
+a:hover{
+	
+	color:white;
+	background-color: #ccc;   
+}
+
+
+
+#menu ul{
+	border-bottom:1px solid black;
+	list-style-type: none;
+
+	
+	
+	
+}
+
+#menu ul li {
+	list-style-type: none;
+	border-bottom:1px solid #ddd;
+}
+
+
+#menu {
+	position: fixed;
+	top: 10px;
+	width: 300px;
+}
+
+#menu a, a[name] {
+	border-bottom: none;
+}
+
+a:hover {
+	color: white;
+	background-color: #ccc;
+}
+
+
+
+
+#tresc{
+	margin-top:10px;
+	margin-left:350px;
+	margin-right:20px;
+	padding-left:10px;
+	border-left:1px solid black;
+
+	
+	
+}
+
+
+#stopka {
+	border-top:1px solid black;
+	font-size:0,75em;
+	text-align:center;
+
+	
+	
+}
+
+.ilustracja{
+	
+	border:1px solid black;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	
+
+	float:right;
+
+	
+}
+
+
+.ilustracja p{
+	text-align:center;
+	
+}
+
+.wiersz{
+	margin-left:80px;
+	font-style:italic;
+	font-size:1,5em;
+	font-style:Times New Roman;
+	color:#483d8b;
+	
+	
+}
+
+#formularz{
+	margin-left: 40px;
+	margin-top: 20px;
+	
+	padding: 10px 10px 10px 10px;
+	background-color:gray;
+	
+	
+	
+	
+	background-color: #fff;
+	border: 1px solid silver;
+	font: 16px calibri;
+	letter-spacing: -1px;
+	
+	-webkit-box-shadow: 0 0 2px silver; 
+    -moz-box-shadow: 0 0 2px silver; 
+    box-shadow: 0 0 2px silver;
+	
+	
+}
+
+
+#formularz, p{
+	color: #696969;
+	font-size: 16px;
+	text-shadow: 0 0 1px silver;
+	
+}
+
+#formularz, input{
+	font-size: 14px;
+	
+	border: 1px solid silver;
+	outline: 2px solid #ebebeb;
+
+}
+
+
+input[type="submit"] {
+	width: 200px;
+	padding: 5px 13px;
+	border: 1px solid #005f85;
+	color: white;
+	text-shadow: 0 0 1px black;
+	background: #98c9dc;
+	position: center;
+	
+}
+
+
+
+
+
+#lower {
+	background: #ecf2f5;
+	
+	padding: 15px 20px;
+	margin-top: 20px;
+}
