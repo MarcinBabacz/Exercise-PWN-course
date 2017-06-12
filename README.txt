@@ -1,1 +1,1 @@
-Æwiczenia realizowane podczas kursu programowania BECK-END developer w dniach 04.05.2017-14.06.2017 organizowanego przez PWN S.A.
+Ä†wiczenia realizowane podczas kursu programowania Back-end developer w dniach 04.05.2017-14.06.2017 organizowanego przez PWN S.A.
